@@ -1,6 +1,6 @@
 {
   "name": "transcribe-speech",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Node.js CLI tool that transcribes audio files to text with smart chunking and silence detection",
   "main": "transcribe-speech.js",
   "bin": {
